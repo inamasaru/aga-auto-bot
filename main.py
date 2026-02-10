@@ -24,19 +24,16 @@ KW=[
     ("AGA 進行 止める","AGA進行を止める方法")
 ]
 
-# アフィリエイトリンク（A8.net申請中プログラム）
-# 提携承認後、プログラム管理画面から広告リンクを取得して差し替えてください
+# アフィリエイトリンク（A8.net承認済みプログラム）
+# 薬用グローリン・ギガ（発毛促進剤）- 2026/01/28承認
 AFFILIATE_LINKS = """
 <div class="clinic-comparison">
-<h3>おすすめAGAクリニック</h3>
+<h3>おすすめAGA対策商品</h3>
 <ul>
-<li><strong>Dクリニック</strong> - オーダーメイド発毛治療<br>
-<a href="https://px.a8.net/svt/ejp?a8mat=3XXXXX+XXXXXX+XXXX+XXXXX" target="_blank" rel="nofollow">無料カウンセリング予約はこちら</a></li>
-<li><strong>Dr.AGAクリニック</strong> - 返金保証付き<br>
-<a href="https://px.a8.net/svt/ejp?a8mat=3XXXXX+XXXXXX+XXXX+XXXXX" target="_blank" rel="nofollow">初回980円キャンペーン中</a></li>
-<li><strong>イースト駅前クリニック</strong> - 全国40院以上<br>
-<a href="https://px.a8.net/svt/ejp?a8mat=3XXXXX+XXXXXX+XXXX+XXXXX" target="_blank" rel="nofollow">オンライン診療対応</a></li>
+<li><strong>薬用グローリン・ギガ</strong> - 販売実績260万本！リピート率93%の発毛促進剤<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AVGK2+7QMVW2+3NZO+1NJK7M" target="_blank" rel="nofollow">820円から始める発毛促進応援キャンペーン</a></li>
 </ul>
+<p>※他のAGAクリニックプログラムは現在申請中です。承認され次第追加予定。</p>
 </div>
 """
 
